@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi there! 👋 I'm oroxtikgers922
 
-<!--
-**oroxtikgers922/oroxtikgers922** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎷 🏄 🚴 Obsessed with system programming 🎷 🏄 🚴
 
-Here are some ideas to get you started:
+## About Me
+🎾 🎺 Curious about programming languages 🎾 🎺
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### What I'm Working On
+🏓 🏊 🎣 Curious about tech gadgets 🏓 🏊 🎣
+
+### Fun Facts
+🚴 🎾 A student of frameworks 🚴 🎾
+
+---
+🎭 🥊 📚 🎽 🎣 Thanks for visiting my profile! 🎨 🎾 📚 🏏 🥋
